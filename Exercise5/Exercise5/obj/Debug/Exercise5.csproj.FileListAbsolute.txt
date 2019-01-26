@@ -1,0 +1,10 @@
+C:\Users\Revenue Director\Desktop\GCU\Week3\Exercise5\Exercise5\Exercise5\obj\Debug\Exercise5.csprojAssemblyReference.cache
+C:\Users\Revenue Director\Desktop\GCU\Week3\Exercise5\Exercise5\Exercise5\obj\Debug\Exercise5.Properties.Resources.resources
+C:\Users\Revenue Director\Desktop\GCU\Week3\Exercise5\Exercise5\Exercise5\obj\Debug\Exercise5.csproj.GenerateResource.cache
+C:\Users\Revenue Director\Desktop\GCU\Week3\Exercise5\Exercise5\Exercise5\obj\Debug\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\Revenue Director\Desktop\GCU\Week3\Exercise5\Exercise5\Exercise5\obj\Debug\Exercise5.ApproximatePiForm.resources
+C:\Users\Revenue Director\Desktop\GCU\Week3\Exercise5\Exercise5\Exercise5\bin\Debug\Exercise5.exe.config
+C:\Users\Revenue Director\Desktop\GCU\Week3\Exercise5\Exercise5\Exercise5\bin\Debug\Exercise5.exe
+C:\Users\Revenue Director\Desktop\GCU\Week3\Exercise5\Exercise5\Exercise5\bin\Debug\Exercise5.pdb
+C:\Users\Revenue Director\Desktop\GCU\Week3\Exercise5\Exercise5\Exercise5\obj\Debug\Exercise5.exe
+C:\Users\Revenue Director\Desktop\GCU\Week3\Exercise5\Exercise5\Exercise5\obj\Debug\Exercise5.pdb
